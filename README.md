@@ -2,7 +2,7 @@
 BUSINESS REQUIREMENT
 UBER TRIP ANALYSIS
 
-# DASHBOARD 1:
+# DASHBOARD 1: OVERVIEW ANALYSIS
 ![Banner Image](Trip_analysis.png)
 
 
@@ -103,10 +103,11 @@ Enables users to analyse raw data outside Power BI if needed.
 
 
 
-# DASHBOARD 2: 
+# DASHBOARD 2: TIME ANALYSIS
 
 ![Banner Image](Time_analysis.png)
-TIME ANALYSIS
+
+# TIME ANALYSIS
 To understand trip patterns based on time, Uber needs to analyse ride demand and trends across different time intervals. This dashboard will help in optimizing operations, pricing, and driver availability.
 Global Dynamic Measure (Filters All Charts)
 A measure selector will be created for:
