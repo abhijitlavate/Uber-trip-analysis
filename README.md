@@ -4,7 +4,9 @@ UBER TRIP ANALYSIS
 
 # DASHBOARD 1:
 ![Banner Image](Trip_analysis.png)
-OVERVIEW ANALYSIS
+
+
+# OVERVIEW ANALYSIS
 Analyse Uber trip data using Power BI to gain insights into booking trends, revenue, and trip efficiency, helping stakeholders make data-driven decisions.
 KPI’s
 Total Bookings – How many trips were booked over a given period?
