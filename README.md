@@ -6,6 +6,9 @@ UBER TRIP ANALYSIS
 ![Banner Image](Trip_analysis.png)
 
 
+# DATA MODELING:  
+![Banner Image](Trip_analysis.png)
+
 # OVERVIEW ANALYSIS
 Analyse Uber trip data using Power BI to gain insights into booking trends, revenue, and trip efficiency, helping stakeholders make data-driven decisions.
 KPI’s
@@ -134,7 +137,7 @@ Highlights peak booking hours across different days.
 
 
 # DASHBOARD 3: DETAILS TAB
-![Banner Image](Time_analysis.png)
+![Banner Image](details_tab.png)
 
 # DETAILS TAB
 To provide in-depth insights and allow users to explore granular data, a Grid Tab will be created. This tab will enable drill-through functionality, allowing users to access detailed records based on selections made in other dashboards.
