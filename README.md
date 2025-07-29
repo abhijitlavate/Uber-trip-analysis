@@ -3,6 +3,7 @@ BUSINESS REQUIREMENT
 UBER TRIP ANALYSIS
 
 # DASHBOARD 1:
+![Banner Image](Apple_Changsha_RetailTeamMembers_09012021_big.jpg.slideshow-xlarge_2x.jpg)
 OVERVIEW ANALYSIS
 Analyse Uber trip data using Power BI to gain insights into booking trends, revenue, and trip efficiency, helping stakeholders make data-driven decisions.
 KPI’s
