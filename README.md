@@ -31,6 +31,7 @@ Expected Outcomes:
 
 
 
+
 CHART’s
 Create a Measure Selector using a Disconnected Table with the following values:
 Total Bookings
